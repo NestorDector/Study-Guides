@@ -4,7 +4,8 @@
 # Capítulo seis. Concurrencia. Interbloqueo e Inanición
 ## Términos clave
 
-**1. Algoritmo del Banquero:**
+**1. Algoritmo del Banquero**
+
 Método utilizado en sistemas operativos para evitar el **interbloqueo (deadlock)**. Consiste en simular el comportamiento de un banquero que debe decidir si otorga o no préstamos a diferentes clientes (procesos), basándose en la disponibilidad de recursos (dinero) y en la certeza de que los préstamos solicitados podrán ser devueltos sin riesgo de insolvencia (deadlock).
 
 **2. Barrera de Memoria**
