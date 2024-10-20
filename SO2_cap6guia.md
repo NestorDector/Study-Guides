@@ -1,16 +1,13 @@
-1\. ¿Cuándo ocurre un interbloqueo (deadlock)?
-
-Ocurre cuando un conjunto de procesos está bloqueado porque cada uno
+**1. ¿Cuándo ocurre un interbloqueo (deadlock)?**
+: Ocurre cuando un conjunto de procesos está bloqueado porque cada uno
 espera un recurso que está siendo retenido por otro proceso del grupo.
 
-2\. ¿Qué recursos se introducen con el interbloqueo?
-
-Con el interbloqueo se introducen dos tipos de recursos: **recursos
+**2. ¿Qué recursos se introducen con el interbloqueo?**
+: Con el interbloqueo se introducen dos tipos de recursos: **recursos
 reutilizables** y **recursos consumibles**.
 
-3\. ¿Cuáles son algunos ejemplos de recursos reutilizables?
-
-La memoria, semáforos, impresoras, etc. Es importante destacar que estos
+**3. ¿Cuáles son algunos ejemplos de recursos reutilizables?**
+: La memoria, semáforos, impresoras, etc. Es importante destacar que estos
 recursos **se pueden liberar y reasignar**.
 
 4\. ¿Cuáles son algunos ejemplos de recursos reutilizables?
